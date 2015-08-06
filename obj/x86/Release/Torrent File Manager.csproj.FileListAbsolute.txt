@@ -1,0 +1,7 @@
+C:\Users\Ru Chern\Dropbox\Public\C# Programming\Torrent File Manager\bin\Release\Torrent File Manager.exe
+C:\Users\Ru Chern\Dropbox\Public\C# Programming\Torrent File Manager\bin\Release\Torrent File Manager.pdb
+C:\Users\Ru Chern\Dropbox\Public\C# Programming\Torrent File Manager\obj\x86\Release\Torrent_File_Manager.frmMain.resources
+C:\Users\Ru Chern\Dropbox\Public\C# Programming\Torrent File Manager\obj\x86\Release\Torrent_File_Manager.Properties.Resources.resources
+C:\Users\Ru Chern\Dropbox\Public\C# Programming\Torrent File Manager\obj\x86\Release\Torrent File Manager.csproj.GenerateResource.Cache
+C:\Users\Ru Chern\Dropbox\Public\C# Programming\Torrent File Manager\obj\x86\Release\Torrent File Manager.exe
+C:\Users\Ru Chern\Dropbox\Public\C# Programming\Torrent File Manager\obj\x86\Release\Torrent File Manager.pdb
