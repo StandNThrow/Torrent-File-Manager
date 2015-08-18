@@ -13,3 +13,4 @@ C:\Users\RuChern\Dropbox\Public\C# Programming\Torrent File Manager\bin\Debug\To
 C:\Users\RuChern\Dropbox\Public\C# Programming\Torrent File Manager\bin\Debug\Torrent File Manager.pdb
 C:\Users\RuChern\Dropbox\Public\C# Programming\Torrent File Manager\obj\x86\Debug\Torrent File Manager.exe
 C:\Users\RuChern\Dropbox\Public\C# Programming\Torrent File Manager\obj\x86\Debug\Torrent File Manager.pdb
+C:\Users\RuChern\Dropbox\Public\C# Programming\Torrent File Manager\obj\x86\Debug\Torrent File Manager.csprojResolveAssemblyReference.cache
